@@ -25,3 +25,30 @@ JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min
 JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
 1652172628741	Marionette	INFO	Stopped listening on port 60082
+1652178829147	geckodriver	INFO	Listening on 127.0.0.1:49410
+1652178829655	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49411" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nh/_lkctsl16l393rkzcyztswd80000gn/T/rust_mozprofilebUWDod"
+2022-05-10 12:33:50.955 plugin-container[1137:9086] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-10 12:33:50.955 plugin-container[1137:9086] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-10 12:33:51.025 plugin-container[1137:9086] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-10 12:33:51.025 plugin-container[1137:9086] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-10 12:33:51.026 plugin-container[1137:9093] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-10 12:33:51.026 plugin-container[1137:9093] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652178831043	Marionette	INFO	Marionette enabled
+2022-05-10 12:33:52.337 firefox-bin[1136:8996] Warning: Expected min height of view: (<NSButton: 0x125d6cc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-10 12:33:52.338 firefox-bin[1136:8996] Warning: Expected min height of view: (<NSButton: 0x12601b400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-10 12:33:52.338 firefox-bin[1136:8996] Warning: Expected min height of view: (<NSButton: 0x12601a000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-10 12:33:52.339 firefox-bin[1136:8996] Warning: Expected min height of view: (<NSButton: 0x12601a800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-10 12:33:52.339 firefox-bin[1136:8996] Warning: Expected min height of view: (<NSButton: 0x12601ac00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-10 12:33:52.340 firefox-bin[1136:8996] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12604b400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-10 12:33:52.341 firefox-bin[1136:8996] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x11dab1c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nh/_lkctsl16l393rkzcyztswd80000gn/T/rust_mozprofilebUWDod/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:49411/devtools/browser/c6a117e8-9ce1-4576-96a8-1f6081835c38
+1652178833867	Marionette	INFO	Listening on port 49426
+Read port: 49426
+1652178833969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
+1652178834972	Marionette	INFO	Stopped listening on port 49426
