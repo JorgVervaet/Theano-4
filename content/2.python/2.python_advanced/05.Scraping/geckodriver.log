@@ -79,3 +79,6 @@ JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min
 JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
 1652184639691	Marionette	INFO	Stopped listening on port 49947
+1652193760483	geckodriver	INFO	Listening on 127.0.0.1:51500
+1652193836124	geckodriver	INFO	Listening on 127.0.0.1:51511
+1652193843451	geckodriver	INFO	Listening on 127.0.0.1:51520
