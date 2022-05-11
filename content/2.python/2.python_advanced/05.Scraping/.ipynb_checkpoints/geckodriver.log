@@ -59,3 +59,33 @@ console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message f
 
 ###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
 
+1652271805509	geckodriver	INFO	Listening on 127.0.0.1:58111
+1652271805528	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58112" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nh/_lkctsl16l393rkzcyztswd80000gn/T/rust_mozprofilevPzcVQ"
+2022-05-11 14:23:26.581 plugin-container[17580:312163] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 14:23:26.582 plugin-container[17580:312163] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652271806593	Marionette	INFO	Marionette enabled
+2022-05-11 14:23:26.617 plugin-container[17580:312163] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 14:23:26.617 plugin-container[17580:312163] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 14:23:26.617 plugin-container[17580:312165] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 14:23:26.618 plugin-container[17580:312165] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 14:23:27.774 firefox-bin[17579:312077] Warning: Expected min height of view: (<NSButton: 0x11a863c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-11 14:23:27.775 firefox-bin[17579:312077] Warning: Expected min height of view: (<NSButton: 0x11ab11c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-11 14:23:27.776 firefox-bin[17579:312077] Warning: Expected min height of view: (<NSButton: 0x11ab12c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-11 14:23:27.777 firefox-bin[17579:312077] Warning: Expected min height of view: (<NSButton: 0x11ab0bc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-11 14:23:27.777 firefox-bin[17579:312077] Warning: Expected min height of view: (<NSButton: 0x11ab0cc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-11 14:23:27.778 firefox-bin[17579:312077] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x11ab34800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-11 14:23:27.779 firefox-bin[17579:312077] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x116dd8800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/nh/_lkctsl16l393rkzcyztswd80000gn/T/rust_mozprofilevPzcVQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58112/devtools/browser/5a55be8b-ad2d-47f7-ad22-7cd3c65353ba
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1652271809047	Marionette	INFO	Listening on port 58127
+Read port: 58127
+1652271809156	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
+1652271810566	Marionette	INFO	Stopped listening on port 58127
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
